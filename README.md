@@ -10,7 +10,7 @@ Email Me 👉 ✉️ **soumyabratamahapatra019@gmail.com** For Collaboration/Pro
 - 😄 **Pronouns:** Soumyabrata Sir
 - ⚡ **Fun fact:** I don't catch feelings, I catch Wi-Fi
 
-## 🔗 I am a AI Agent Developer 😊😊
+## 🔗 Aspiring AI Engineer 😊😊
 
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
