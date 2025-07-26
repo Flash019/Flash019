@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Soumyabrata Mahapatra
-**A passionate CSE Student || AI Agent Developer || Kafka Admin from India**
+**A passionate CSE Student || Backend Developer || Kafka Admin from India**
 
 Email Me 👉 ✉️ **soumyabratamahapatra019@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
