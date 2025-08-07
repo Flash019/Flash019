@@ -3,8 +3,8 @@
 
 Email Me 👉 ✉️ **soumyabratamahapatra019@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** DobbyAI
-- 🌱 **I’m currently learning:** Machine Learning with GenAI & NLP
+- 🔭 **I’m currently working on:** FastAPI
+- 🌱 **I’m currently learning:** Back End Development
 - 💬 **Feel free to reach out about:** Team Collaboration or Tech Help
 - 📫 **How to reach me:** soumyabratamahapatra019@gmail.com
 - 😄 **Pronouns:** Soumyabrata Sir
