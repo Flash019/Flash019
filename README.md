@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Soumyabrata Mahapatra
-**A passionate CSE Student || Backend Developer || Kafka Admin from India**
+**A passionate CSE Student || Back End Developer || Kafka Admin from India**
 
 Email Me 👉 ✉️ **soumyabratamahapatra019@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -10,7 +10,7 @@ Email Me 👉 ✉️ **soumyabratamahapatra019@gmail.com** For Collaboration/Pro
 - 😄 **Pronouns:** Soumyabrata Sir
 - ⚡ **Fun fact:** I don't catch feelings, I catch Wi-Fi
 
-## 🔗 Backend Developer 😊😊
+## 🔗 Back End Developer 😊😊
 
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
