@@ -61,15 +61,6 @@
 <!-- 🧠 Overall GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=Flash019&show_icons=true&theme=react&hide_border=false&border_radius=10&count_private=true&include_all_commits=true&title_color=61dafb&icon_color=61dafb" alt="Soumyabrata's GitHub Stats" width="49%" />
 
-<!-- 🔥 GitHub Streak -->
-<img src="https://nirzak-streak-stats.vercel.app/?user=Flash019&theme=react&hide_border=false&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="Soumyabrata's GitHub Streak" width="49%" />
-
-<!-- 💻 Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flash019&theme=react&hide_border=false&layout=compact&border_radius=10&langs_count=8&title_color=61dafb" alt="Soumyabrata's Top Languages" width="45%" />
-
-</div>
-
----
 
 <p align="center">
 💡 *"Code. Commit. Repeat. Because scaling systems is an art."*  
