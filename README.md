@@ -49,10 +49,12 @@
 
 </div>
 
-### ✍️ Random Dev Quote  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
+### ⚙️ Tech Arsenal  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📊 GitHub Insights & Stats 🚀
 
