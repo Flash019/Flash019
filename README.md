@@ -40,11 +40,14 @@
 
 ---
 
-## 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Flash019&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Flash019&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 📊 GitHub Stats
 
----
+<div align="center">
+
+![Soumyabrata's GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Flash019&theme=react&hide_border=false&border_radius=8&date_format=j%20M%5B%20Y%5D)  
+![Soumyabrata's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flash019&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact&border_radius=8)
+
+</div>
 
 ### ✍️ Random Dev Quote  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
